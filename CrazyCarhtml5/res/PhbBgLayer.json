@@ -1,0 +1,1603 @@
+{
+  "ID": "c8ad4755-9d71-4a1c-9724-64a9ed5d6e6a",
+  "Version": "2.3.1.1",
+  "Name": "PhbBgLayer",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 17,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "phb/bgRank.jpg",
+              "Plist": ""
+            },
+            "Scale9Width": 720,
+            "Scale9Height": 1280,
+            "StretchWidthEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 360.0433,
+              "Y": 643.2487
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5001,
+              "Y": 0.5025
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "LeftMargin": 0.0433,
+            "RightMargin": -0.0433,
+            "TopMargin": -3.2487,
+            "BottomMargin": 3.2487,
+            "Tag": 19,
+            "ActionTag": 1743016352,
+            "Size": {
+              "X": 720.0,
+              "Y": 1280.0
+            },
+            "Name": "Image_1",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "phb/fanhui.png",
+              "Plist": ""
+            },
+            "Scale9Width": 64,
+            "Scale9Height": 64,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 66.0773,
+              "Y": 1205.1644
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0918,
+              "Y": 0.9415
+            },
+            "PreSize": {
+              "X": 0.0889,
+              "Y": 0.05
+            },
+            "LeftMargin": 34.0773,
+            "RightMargin": 621.9227,
+            "TopMargin": 42.8356,
+            "BottomMargin": 1173.1644,
+            "Tag": 20,
+            "ActionTag": 311613159,
+            "Size": {
+              "X": 64.0,
+              "Y": 64.0
+            },
+            "Name": "Image_2",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "ImageFileData": {
+              "Type": "Normal",
+              "Path": "phb/WOjindutiao2.png",
+              "Plist": ""
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 395.9998,
+              "Y": 1055.0
+            },
+            "Scale": {
+              "ScaleX": 1.2844,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.55,
+              "Y": 0.8242
+            },
+            "PreSize": {
+              "X": 0.5583,
+              "Y": 0.0234
+            },
+            "LeftMargin": 194.9998,
+            "RightMargin": 123.0002,
+            "TopMargin": 210.0,
+            "BottomMargin": 1040.0,
+            "Tag": 21,
+            "ActionTag": 1281005408,
+            "Size": {
+              "X": 402.0,
+              "Y": 30.0
+            },
+            "Name": "LoadingBar_wo",
+            "ctype": "LoadingBarObjectData"
+          },
+          {
+            "ImageFileData": {
+              "Type": "Normal",
+              "Path": "phb/jindutiaoyellow2.png",
+              "Plist": ""
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 350.0,
+              "Y": 950.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4861,
+              "Y": 0.7422
+            },
+            "PreSize": {
+              "X": 0.5972,
+              "Y": 0.0234
+            },
+            "LeftMargin": 135.0,
+            "RightMargin": 155.0,
+            "TopMargin": 315.0,
+            "BottomMargin": 935.0,
+            "Tag": 22,
+            "ActionTag": -893070167,
+            "Size": {
+              "X": 430.0,
+              "Y": 30.0
+            },
+            "Name": "LoadingBar_1",
+            "ctype": "LoadingBarObjectData"
+          },
+          {
+            "ImageFileData": {
+              "Type": "Normal",
+              "Path": "phb/jindutiaoyellow2.png",
+              "Plist": ""
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 350.0,
+              "Y": 860.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4861,
+              "Y": 0.6719
+            },
+            "PreSize": {
+              "X": 0.5972,
+              "Y": 0.0234
+            },
+            "LeftMargin": 135.0,
+            "RightMargin": 155.0,
+            "TopMargin": 405.0,
+            "BottomMargin": 845.0,
+            "Tag": 23,
+            "ActionTag": -305918459,
+            "Size": {
+              "X": 430.0,
+              "Y": 30.0
+            },
+            "Name": "LoadingBar_2",
+            "ctype": "LoadingBarObjectData"
+          },
+          {
+            "ImageFileData": {
+              "Type": "Normal",
+              "Path": "phb/jindutiaoyellow2.png",
+              "Plist": ""
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 350.0,
+              "Y": 590.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4861,
+              "Y": 0.4609
+            },
+            "PreSize": {
+              "X": 0.5972,
+              "Y": 0.0234
+            },
+            "LeftMargin": 135.0,
+            "RightMargin": 155.0,
+            "TopMargin": 675.0,
+            "BottomMargin": 575.0,
+            "Tag": 24,
+            "ActionTag": -418908010,
+            "Size": {
+              "X": 430.0,
+              "Y": 30.0
+            },
+            "Name": "LoadingBar_5",
+            "ctype": "LoadingBarObjectData"
+          },
+          {
+            "ImageFileData": {
+              "Type": "Normal",
+              "Path": "phb/jindutiaoyellow2.png",
+              "Plist": ""
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 350.0,
+              "Y": 500.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4861,
+              "Y": 0.3906
+            },
+            "PreSize": {
+              "X": 0.5972,
+              "Y": 0.0234
+            },
+            "LeftMargin": 135.0,
+            "RightMargin": 155.0,
+            "TopMargin": 765.0,
+            "BottomMargin": 485.0,
+            "Tag": 25,
+            "ActionTag": 473770598,
+            "Size": {
+              "X": 430.0,
+              "Y": 30.0
+            },
+            "Name": "LoadingBar_6",
+            "ctype": "LoadingBarObjectData"
+          },
+          {
+            "ImageFileData": {
+              "Type": "Normal",
+              "Path": "phb/jindutiaoyellow2.png",
+              "Plist": ""
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 350.0,
+              "Y": 680.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4861,
+              "Y": 0.5312
+            },
+            "PreSize": {
+              "X": 0.5972,
+              "Y": 0.0234
+            },
+            "LeftMargin": 135.0,
+            "RightMargin": 155.0,
+            "TopMargin": 585.0,
+            "BottomMargin": 665.0,
+            "Tag": 26,
+            "ActionTag": 785941573,
+            "Size": {
+              "X": 430.0,
+              "Y": 30.0
+            },
+            "Name": "LoadingBar_4",
+            "ctype": "LoadingBarObjectData"
+          },
+          {
+            "ImageFileData": {
+              "Type": "Normal",
+              "Path": "phb/jindutiaoyellow2.png",
+              "Plist": ""
+            },
+            "StretchHeightEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 350.0,
+              "Y": 770.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4861,
+              "Y": 0.6016
+            },
+            "PreSize": {
+              "X": 0.5972,
+              "Y": 0.0234
+            },
+            "LeftMargin": 135.0,
+            "RightMargin": 155.0,
+            "TopMargin": 495.0,
+            "BottomMargin": 755.0,
+            "Tag": 27,
+            "ActionTag": 1081613673,
+            "Size": {
+              "X": 430.0,
+              "Y": 30.0
+            },
+            "Name": "LoadingBar_3",
+            "ctype": "LoadingBarObjectData"
+          },
+          {
+            "ImageFileData": {
+              "Type": "Normal",
+              "Path": "phb/jindutiaoyellow2.png",
+              "Plist": ""
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 350.0,
+              "Y": 140.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4861,
+              "Y": 0.1094
+            },
+            "PreSize": {
+              "X": 0.5972,
+              "Y": 0.0234
+            },
+            "LeftMargin": 135.0,
+            "RightMargin": 155.0,
+            "TopMargin": 1125.0,
+            "BottomMargin": 125.0,
+            "Tag": 28,
+            "ActionTag": -1640055375,
+            "Size": {
+              "X": 430.0,
+              "Y": 30.0
+            },
+            "Name": "LoadingBar_10",
+            "ctype": "LoadingBarObjectData"
+          },
+          {
+            "ImageFileData": {
+              "Type": "Normal",
+              "Path": "phb/jindutiaoyellow2.png",
+              "Plist": ""
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 350.0,
+              "Y": 320.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4861,
+              "Y": 0.25
+            },
+            "PreSize": {
+              "X": 0.5972,
+              "Y": 0.0234
+            },
+            "LeftMargin": 135.0,
+            "RightMargin": 155.0,
+            "TopMargin": 945.0,
+            "BottomMargin": 305.0,
+            "Tag": 29,
+            "ActionTag": -1473430948,
+            "Size": {
+              "X": 430.0,
+              "Y": 30.0
+            },
+            "Name": "LoadingBar_8",
+            "ctype": "LoadingBarObjectData"
+          },
+          {
+            "ImageFileData": {
+              "Type": "Normal",
+              "Path": "phb/jindutiaoyellow2.png",
+              "Plist": ""
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 350.0,
+              "Y": 410.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4861,
+              "Y": 0.3203
+            },
+            "PreSize": {
+              "X": 0.5972,
+              "Y": 0.0234
+            },
+            "LeftMargin": 135.0,
+            "RightMargin": 155.0,
+            "TopMargin": 855.0,
+            "BottomMargin": 395.0,
+            "Tag": 30,
+            "ActionTag": -1975500264,
+            "Size": {
+              "X": 430.0,
+              "Y": 30.0
+            },
+            "Name": "LoadingBar_7",
+            "ctype": "LoadingBarObjectData"
+          },
+          {
+            "ImageFileData": {
+              "Type": "Normal",
+              "Path": "phb/jindutiaoyellow2.png",
+              "Plist": ""
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 350.0,
+              "Y": 230.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4861,
+              "Y": 0.1797
+            },
+            "PreSize": {
+              "X": 0.5972,
+              "Y": 0.0234
+            },
+            "LeftMargin": 135.0,
+            "RightMargin": 155.0,
+            "TopMargin": 1035.0,
+            "BottomMargin": 215.0,
+            "Tag": 31,
+            "ActionTag": -826727738,
+            "Size": {
+              "X": 430.0,
+              "Y": 30.0
+            },
+            "Name": "LoadingBar_9",
+            "ctype": "LoadingBarObjectData"
+          },
+          {
+            "FontSize": 24,
+            "LabelText": "Text Label",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 230.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.8889,
+              "Y": 0.1797
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 590.0,
+            "RightMargin": 30.0,
+            "TopMargin": 1040.0,
+            "BottomMargin": 220.0,
+            "Tag": 47,
+            "ActionTag": -2046381352,
+            "Size": {
+              "X": 120.0,
+              "Y": 24.0
+            },
+            "Name": "score_9",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 24,
+            "LabelText": "Text Label",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 320.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.8889,
+              "Y": 0.25
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 590.0,
+            "RightMargin": 30.0,
+            "TopMargin": 950.0,
+            "BottomMargin": 310.0,
+            "Tag": 48,
+            "ActionTag": 1130798115,
+            "Size": {
+              "X": 120.0,
+              "Y": 24.0
+            },
+            "Name": "score_8",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 24,
+            "LabelText": "Text Label",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 140.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.8889,
+              "Y": 0.1094
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 590.0,
+            "RightMargin": 30.0,
+            "TopMargin": 1130.0,
+            "BottomMargin": 130.0,
+            "Tag": 49,
+            "ActionTag": 1651768502,
+            "Size": {
+              "X": 120.0,
+              "Y": 24.0
+            },
+            "Name": "score_10",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 24,
+            "LabelText": "Text Label",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 637.9546,
+              "Y": 410.0001
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.886,
+              "Y": 0.3203
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 587.9546,
+            "RightMargin": 32.0454,
+            "TopMargin": 859.9999,
+            "BottomMargin": 400.0001,
+            "Tag": 50,
+            "ActionTag": -1744155109,
+            "Size": {
+              "X": 120.0,
+              "Y": 24.0
+            },
+            "Name": "score_7",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 24,
+            "LabelText": "Text Label",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 500.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.8889,
+              "Y": 0.3906
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 590.0,
+            "RightMargin": 30.0,
+            "TopMargin": 770.0,
+            "BottomMargin": 490.0,
+            "Tag": 51,
+            "ActionTag": 1848332114,
+            "Size": {
+              "X": 120.0,
+              "Y": 24.0
+            },
+            "Name": "score_6",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 24,
+            "LabelText": "Text Label",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 590.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.8889,
+              "Y": 0.4609
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 590.0,
+            "RightMargin": 30.0,
+            "TopMargin": 680.0,
+            "BottomMargin": 580.0,
+            "Tag": 52,
+            "ActionTag": 1209148595,
+            "Size": {
+              "X": 120.0,
+              "Y": 24.0
+            },
+            "Name": "score_5",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 24,
+            "LabelText": "Text Label",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 770.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.8889,
+              "Y": 0.6016
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 590.0,
+            "RightMargin": 30.0,
+            "TopMargin": 500.0,
+            "BottomMargin": 760.0,
+            "Tag": 53,
+            "ActionTag": -1805727004,
+            "Size": {
+              "X": 120.0,
+              "Y": 24.0
+            },
+            "Name": "score_3",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 24,
+            "LabelText": "Text Label",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 680.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.8889,
+              "Y": 0.5312
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 590.0,
+            "RightMargin": 30.0,
+            "TopMargin": 590.0,
+            "BottomMargin": 670.0,
+            "Tag": 54,
+            "ActionTag": 249800296,
+            "Size": {
+              "X": 120.0,
+              "Y": 24.0
+            },
+            "Name": "score_4",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 24,
+            "LabelText": "Text Label",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 644.27,
+              "Y": 950.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.8948,
+              "Y": 0.7422
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 594.27,
+            "RightMargin": 25.73,
+            "TopMargin": 320.0,
+            "BottomMargin": 940.0,
+            "Tag": 55,
+            "ActionTag": -734247210,
+            "Size": {
+              "X": 120.0,
+              "Y": 24.0
+            },
+            "Name": "score_1",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 24,
+            "LabelText": "Text Label",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 858.5307
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.8889,
+              "Y": 0.6707
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 590.0,
+            "RightMargin": 30.0,
+            "TopMargin": 411.4693,
+            "BottomMargin": 848.5307,
+            "Tag": 56,
+            "ActionTag": 1428958005,
+            "Size": {
+              "X": 120.0,
+              "Y": 24.0
+            },
+            "Name": "score_2",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 28,
+            "LabelText": "Text Label",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.4573,
+              "ScaleY": 0.7014
+            },
+            "Position": {
+              "X": 640.0002,
+              "Y": 1061.1641
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.8889,
+              "Y": 0.829
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 585.1242,
+            "RightMargin": 14.8758,
+            "TopMargin": 211.6696,
+            "BottomMargin": 1044.3304,
+            "Tag": 57,
+            "ActionTag": 13824407,
+            "Size": {
+              "X": 140.0,
+              "Y": 28.0
+            },
+            "Name": "score_wo",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 20,
+            "LabelText": "Text Label",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 200.0001,
+              "Y": 890.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2778,
+              "Y": 0.6953
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 150.0001,
+            "RightMargin": 469.9999,
+            "TopMargin": 380.0,
+            "BottomMargin": 880.0,
+            "Tag": 28,
+            "ActionTag": -1347886446,
+            "Size": {
+              "X": 100.0,
+              "Y": 20.0
+            },
+            "Name": "name_2",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 24,
+            "LabelText": "Text Label",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 202.1351,
+              "Y": 980.0002
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2807,
+              "Y": 0.7656
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 152.1351,
+            "RightMargin": 467.8649,
+            "TopMargin": 289.9998,
+            "BottomMargin": 970.0002,
+            "Tag": 29,
+            "ActionTag": -426588143,
+            "Size": {
+              "X": 120.0,
+              "Y": 24.0
+            },
+            "Name": "name_1",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 24,
+            "LabelText": "Text Label",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 202.1349,
+              "Y": 800.0001
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2807,
+              "Y": 0.625
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 152.1349,
+            "RightMargin": 467.8651,
+            "TopMargin": 469.9999,
+            "BottomMargin": 790.0001,
+            "Tag": 30,
+            "ActionTag": -1564444058,
+            "Size": {
+              "X": 120.0,
+              "Y": 24.0
+            },
+            "Name": "name_3",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 24,
+            "LabelText": "Text Label",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 200.0,
+              "Y": 530.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2778,
+              "Y": 0.4141
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 150.0,
+            "RightMargin": 470.0,
+            "TopMargin": 740.0,
+            "BottomMargin": 520.0,
+            "Tag": 31,
+            "ActionTag": -328606338,
+            "Size": {
+              "X": 120.0,
+              "Y": 24.0
+            },
+            "Name": "name_6",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 24,
+            "LabelText": "Text Label",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 200.0004,
+              "Y": 712.1351
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2778,
+              "Y": 0.5564
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 150.0004,
+            "RightMargin": 469.9996,
+            "TopMargin": 557.8649,
+            "BottomMargin": 702.1351,
+            "Tag": 32,
+            "ActionTag": 599455320,
+            "Size": {
+              "X": 120.0,
+              "Y": 24.0
+            },
+            "Name": "name_4",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 24,
+            "LabelText": "Text Label",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 200.0,
+              "Y": 620.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2778,
+              "Y": 0.4844
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 150.0,
+            "RightMargin": 470.0,
+            "TopMargin": 650.0,
+            "BottomMargin": 610.0,
+            "Tag": 33,
+            "ActionTag": 1671890784,
+            "Size": {
+              "X": 120.0,
+              "Y": 24.0
+            },
+            "Name": "name_5",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 24,
+            "LabelText": "Text Label",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 200.0,
+              "Y": 350.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2778,
+              "Y": 0.2734
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 150.0,
+            "RightMargin": 470.0,
+            "TopMargin": 920.0,
+            "BottomMargin": 340.0,
+            "Tag": 34,
+            "ActionTag": -816712861,
+            "Size": {
+              "X": 120.0,
+              "Y": 24.0
+            },
+            "Name": "name_8",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 24,
+            "LabelText": "Text Label",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 200.0,
+              "Y": 440.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2778,
+              "Y": 0.3438
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 150.0,
+            "RightMargin": 470.0,
+            "TopMargin": 830.0,
+            "BottomMargin": 430.0,
+            "Tag": 35,
+            "ActionTag": -54895757,
+            "Size": {
+              "X": 120.0,
+              "Y": 24.0
+            },
+            "Name": "name_7",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 24,
+            "LabelText": "Text Label",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 202.1352,
+              "Y": 260.0001
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2807,
+              "Y": 0.2031
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 152.1352,
+            "RightMargin": 467.8648,
+            "TopMargin": 1009.9999,
+            "BottomMargin": 250.0001,
+            "Tag": 36,
+            "ActionTag": 505982402,
+            "Size": {
+              "X": 120.0,
+              "Y": 24.0
+            },
+            "Name": "name_9",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 24,
+            "LabelText": "Text Label",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 197.8649,
+              "Y": 170.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2748,
+              "Y": 0.1328
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 147.8649,
+            "RightMargin": 472.1351,
+            "TopMargin": 1100.0,
+            "BottomMargin": 160.0,
+            "Tag": 37,
+            "ActionTag": 1219750169,
+            "Size": {
+              "X": 120.0,
+              "Y": 24.0
+            },
+            "Name": "name_10",
+            "ctype": "TextObjectData"
+          }
+        ],
+        "Size": {
+          "X": 720.0,
+          "Y": 1280.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "bgRank.jpg",
+        "fanhui.png",
+        "jindutiaoyellow2.png",
+        "WOjindutiao2.png"
+      ],
+      "ctype": "GameProjectData"
+    }
+  },
+  "Type": "Layer"
+}

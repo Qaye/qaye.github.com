@@ -1,0 +1,387 @@
+{
+  "ID": "738511f2-5cee-4ec4-95a1-a3e149bc4245",
+  "Version": "2.3.1.2",
+  "Name": "Login",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 3,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "login/bgLogin.jpg",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Tag": 5,
+            "ActionTag": -2037680621,
+            "Size": {
+              "X": 720.0,
+              "Y": 1280.0
+            },
+            "Name": "Sprite_2",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "login/spriteWhiteCar.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 167.4982,
+              "Y": 616.6055
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2326,
+              "Y": 0.4817
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 125.4982,
+            "RightMargin": 510.5018,
+            "TopMargin": 646.3945,
+            "BottomMargin": 599.6055,
+            "Tag": 3,
+            "ActionTag": 69154582,
+            "Size": {
+              "X": 84.0,
+              "Y": 34.0
+            },
+            "Name": "Sprite_1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "login/textAccDown.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 327.4762,
+              "Y": 547.2545
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4548,
+              "Y": 0.4275
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 107.4762,
+            "RightMargin": 172.5238,
+            "TopMargin": 688.7455,
+            "BottomMargin": 503.2545,
+            "Tag": 4,
+            "ActionTag": 1674261396,
+            "Size": {
+              "X": 440.0,
+              "Y": 88.0
+            },
+            "Name": "Sprite_3",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "login/textPwdDown.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 331.2354,
+              "Y": 400.6721
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.46,
+              "Y": 0.313
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 111.2354,
+            "RightMargin": 168.7646,
+            "TopMargin": 835.3279,
+            "BottomMargin": 356.6721,
+            "Tag": 5,
+            "ActionTag": -5093707,
+            "Size": {
+              "X": 440.0,
+              "Y": 88.0
+            },
+            "Name": "Sprite_4",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "login/btnLoginDown.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": -0.1536,
+              "ScaleY": -0.0719
+            },
+            "Position": {
+              "X": 181.349,
+              "Y": 201.0445
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2519,
+              "Y": 0.1571
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 218.213,
+            "RightMargin": 261.787,
+            "TopMargin": 984.6283,
+            "BottomMargin": 207.3717,
+            "Tag": 7,
+            "ActionTag": -1027659660,
+            "Size": {
+              "X": 240.0,
+              "Y": 88.0
+            },
+            "Name": "Sprite_login",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FontSize": 12,
+            "LabelText": "用户注册",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 596.6011,
+              "Y": 67.3992
+            },
+            "Scale": {
+              "ScaleX": 1.8575,
+              "ScaleY": 2.4021
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.8286,
+              "Y": 0.0527
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 572.6011,
+            "RightMargin": 99.3989,
+            "TopMargin": 1206.6008,
+            "BottomMargin": 61.3992,
+            "Tag": 9,
+            "ActionTag": -729164820,
+            "Size": {
+              "X": 48.0,
+              "Y": 12.0
+            },
+            "Name": "Text_regist",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 12,
+            "IsCustomSize": true,
+            "LabelText": "",
+            "PlaceHolderText": "请输入账号",
+            "MaxLengthText": 10,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 393.2234,
+              "Y": 525.688
+            },
+            "Scale": {
+              "ScaleX": 3.2381,
+              "ScaleY": 2.7923
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5461,
+              "Y": 0.4107
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 343.2234,
+            "RightMargin": 276.7766,
+            "TopMargin": 740.812,
+            "BottomMargin": 512.188,
+            "Tag": 10,
+            "ActionTag": 565471899,
+            "Size": {
+              "X": 100.0,
+              "Y": 27.0
+            },
+            "Name": "TextField_login_name",
+            "ctype": "TextFieldObjectData"
+          },
+          {
+            "FontSize": 12,
+            "IsCustomSize": true,
+            "LabelText": "",
+            "PlaceHolderText": "请输入密码",
+            "MaxLengthText": 10,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 390.5103,
+              "Y": 382.6492
+            },
+            "Scale": {
+              "ScaleX": 3.2079,
+              "ScaleY": 2.5683
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5424,
+              "Y": 0.2989
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 340.5103,
+            "RightMargin": 279.4897,
+            "TopMargin": 883.8508,
+            "BottomMargin": 369.1492,
+            "Tag": 11,
+            "ActionTag": 1621325509,
+            "Size": {
+              "X": 100.0,
+              "Y": 27.0
+            },
+            "Name": "TextField_login_pwd",
+            "ctype": "TextFieldObjectData"
+          }
+        ],
+        "Size": {
+          "X": 720.0,
+          "Y": 1280.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "bgLogin.jpg",
+        "btnLoginDown.png",
+        "spriteWhiteCar.png",
+        "textAccDown.png",
+        "textPwdDown.png"
+      ],
+      "ctype": "GameProjectData"
+    }
+  },
+  "Type": "Layer"
+}

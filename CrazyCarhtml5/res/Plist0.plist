@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>cra_1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{439,0},{55,76}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{55,76}</string>
+			</dict>
+			<key>cra_2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{614,31},{34,47}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{34,47}</string>
+			</dict>
+			<key>cra_4.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{364,0},{56,75}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{56,75}</string>
+			</dict>
+			<key>cra_5.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{687,0},{35,47}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{35,47}</string>
+			</dict>
+			<key>cra_7.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{614,0},{31,73}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{31,73}</string>
+			</dict>
+			<key>cra_8.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{661,31},{19,47}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{19,47}</string>
+			</dict>
+			<key>cra_9.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{166,100}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{166,100}</string>
+			</dict>
+			<key>cra_0.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{265,0},{70,99}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{70,99}</string>
+			</dict>
+			<key>cra_6.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{515,0},{39,99}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{39,99}</string>
+			</dict>
+			<key>cra_3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{166,0},{74,99}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{74,99}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>Plist0.png</string>
+			<key>realTextureFileName</key>
+			<string>Plist0.png</string>
+			<key>size</key>
+			<string>{1024,128}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1024</integer>
+			<key>height</key>
+			<integer>128</integer>
+		</dict>
+	</dict>
+</plist>

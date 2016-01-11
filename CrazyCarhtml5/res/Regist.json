@@ -1,0 +1,425 @@
+{
+  "ID": "5941833e-fd10-4b69-a025-3065d9d82a63",
+  "Version": "2.3.1.2",
+  "Name": "Regist",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 5,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "regist/background.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 359.2609,
+              "Y": 640.5093
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.499,
+              "Y": 0.5004
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -0.7391,
+            "RightMargin": 0.7391,
+            "TopMargin": -0.5093,
+            "BottomMargin": 0.5093,
+            "Tag": 6,
+            "ActionTag": -453568617,
+            "Size": {
+              "X": 720.0,
+              "Y": 1280.0
+            },
+            "Name": "Sprite_1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "regist/btnLogindown.png",
+              "Plist": ""
+            },
+            "Scale9Width": 440,
+            "Scale9Height": 88,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 360.8192,
+              "Y": 640.0135
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5011,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 0.6111,
+              "Y": 0.0688
+            },
+            "LeftMargin": 140.8192,
+            "RightMargin": 139.1808,
+            "TopMargin": 595.9865,
+            "BottomMargin": 596.0135,
+            "Tag": 9,
+            "ActionTag": 1006685013,
+            "Size": {
+              "X": 440.0,
+              "Y": 88.0
+            },
+            "Name": "Image_1",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "regist/picCar.png",
+              "Plist": ""
+            },
+            "Scale9Width": 84,
+            "Scale9Height": 34,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 182.819,
+              "Y": 702.6138
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2539,
+              "Y": 0.5489
+            },
+            "PreSize": {
+              "X": 0.1167,
+              "Y": 0.0266
+            },
+            "LeftMargin": 140.819,
+            "RightMargin": 495.181,
+            "TopMargin": 560.3862,
+            "BottomMargin": 685.6138,
+            "Tag": 10,
+            "ActionTag": -2059602604,
+            "Size": {
+              "X": 84.0,
+              "Y": 34.0
+            },
+            "Name": "Image_2",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "regist/btnPassworddown.png",
+              "Plist": ""
+            },
+            "Scale9Width": 440,
+            "Scale9Height": 88,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 360.8192,
+              "Y": 494.1836
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5011,
+              "Y": 0.3861
+            },
+            "PreSize": {
+              "X": 0.6111,
+              "Y": 0.0688
+            },
+            "LeftMargin": 140.8192,
+            "RightMargin": 139.1808,
+            "TopMargin": 741.8164,
+            "BottomMargin": 450.1836,
+            "Tag": 11,
+            "ActionTag": -1610549287,
+            "Size": {
+              "X": 440.0,
+              "Y": 88.0
+            },
+            "Name": "Image_3",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "regist/btnConfirmpassworddown.png",
+              "Plist": ""
+            },
+            "Scale9Width": 440,
+            "Scale9Height": 88,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 360.8192,
+              "Y": 344.8757
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5011,
+              "Y": 0.2694
+            },
+            "PreSize": {
+              "X": 0.6111,
+              "Y": 0.0688
+            },
+            "LeftMargin": 140.8192,
+            "RightMargin": 139.1808,
+            "TopMargin": 891.1243,
+            "BottomMargin": 300.8757,
+            "Tag": 12,
+            "ActionTag": -1561469431,
+            "Size": {
+              "X": 440.0,
+              "Y": 88.0
+            },
+            "Name": "Image_4",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "regist/btnRegisterdown.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 348.826,
+              "Y": 194.2411
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4845,
+              "Y": 0.1518
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 228.826,
+            "RightMargin": 251.174,
+            "TopMargin": 1041.7589,
+            "BottomMargin": 150.2411,
+            "Tag": 15,
+            "ActionTag": -1787894729,
+            "Size": {
+              "X": 240.0,
+              "Y": 88.0
+            },
+            "Name": "Regist_AND_login",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FontSize": 20,
+            "IsCustomSize": true,
+            "LabelText": "",
+            "PlaceHolderText": "Text Field",
+            "MaxLengthText": 10,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 385.2614,
+              "Y": 637.9818
+            },
+            "Scale": {
+              "ScaleX": 2.6219,
+              "ScaleY": 2.0727
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5351,
+              "Y": 0.4984
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 335.2614,
+            "RightMargin": 284.7386,
+            "TopMargin": 628.5182,
+            "BottomMargin": 624.4818,
+            "Tag": 16,
+            "ActionTag": -369993876,
+            "Size": {
+              "X": 100.0,
+              "Y": 27.0
+            },
+            "Name": "TextField_regist_username",
+            "ctype": "TextFieldObjectData"
+          },
+          {
+            "FontSize": 20,
+            "IsCustomSize": true,
+            "LabelText": "",
+            "PlaceHolderText": "Text Field",
+            "MaxLengthText": 10,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 389.4687,
+              "Y": 496.1975
+            },
+            "Scale": {
+              "ScaleX": 2.6219,
+              "ScaleY": 2.0727
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5409,
+              "Y": 0.3877
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 339.4687,
+            "RightMargin": 280.5313,
+            "TopMargin": 770.3025,
+            "BottomMargin": 482.6975,
+            "Tag": 17,
+            "ActionTag": -415768118,
+            "Size": {
+              "X": 100.0,
+              "Y": 27.0
+            },
+            "Name": "TextField_regist_pwd",
+            "ctype": "TextFieldObjectData"
+          },
+          {
+            "FontSize": 20,
+            "IsCustomSize": true,
+            "LabelText": "",
+            "PlaceHolderText": "Text Field",
+            "MaxLengthText": 10,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 428.5679,
+              "Y": 342.6824
+            },
+            "Scale": {
+              "ScaleX": 2.3323,
+              "ScaleY": 2.0727
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5952,
+              "Y": 0.2677
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 378.5679,
+            "RightMargin": 241.4321,
+            "TopMargin": 923.8176,
+            "BottomMargin": 329.1824,
+            "Tag": 18,
+            "ActionTag": -1137168392,
+            "Size": {
+              "X": 100.0,
+              "Y": 27.0
+            },
+            "Name": "TextField_regist_pwd_ok",
+            "ctype": "TextFieldObjectData"
+          }
+        ],
+        "Size": {
+          "X": 720.0,
+          "Y": 1280.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "background.png",
+        "btnConfirmpassworddown.png",
+        "btnLogindown.png",
+        "btnPassworddown.png",
+        "btnRegisterdown.png",
+        "picCar.png"
+      ],
+      "ctype": "GameProjectData"
+    }
+  },
+  "Type": "Layer"
+}

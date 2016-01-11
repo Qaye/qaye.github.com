@@ -1,0 +1,71 @@
+{
+  "ID": "48cd634b-8c69-4927-9fdc-0443897a790d",
+  "Version": "2.3.1.1",
+  "Name": "PhbMainScene",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 13,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "PhbBgLayer.json",
+              "Plist": ""
+            },
+            "InnerActionSpeed": 1.0,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 10.3859,
+              "Y": -6.9753
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.0144,
+              "Y": -0.0054
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 10.3859,
+            "RightMargin": -10.3859,
+            "TopMargin": 6.9752,
+            "BottomMargin": -6.9753,
+            "Tag": 32,
+            "ActionTag": 613825029,
+            "Size": {
+              "X": 720.0,
+              "Y": 1280.0
+            },
+            "Name": "ProjectNode_1",
+            "ctype": "ProjectNodeObjectData"
+          }
+        ],
+        "Size": {
+          "X": 720.0,
+          "Y": 1280.0
+        },
+        "Name": "Scene",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "PhbBgLayer.json"
+      ],
+      "ctype": "GameProjectData"
+    }
+  },
+  "Type": "Scene"
+}
